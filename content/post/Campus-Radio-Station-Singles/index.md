@@ -2,8 +2,11 @@
 title: 定海七中校园广播站歌单
 date: 2023-09-08 00:00:00+0000
 image: cover.jpg
+categories:
+    - 歌单
 tags:
     - 官方
+weight: 1
 ---
 
 最后更新时间: 04 Jan 2024 21:45
