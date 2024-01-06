@@ -22,7 +22,17 @@
   }
 
   .powerby {
-    display: none;
+    /* 隐藏原有内容 */
+    text-indent: -9999px;
+    overflow: hidden;
+    /* 添加:before伪元素以显示新内容 */
+    position: relative;
+  }
+  
+  .powerby::before {
+    content: 'Powered by LaoShui';
+    display: block;
+    position: absolute;
   }
 
   
