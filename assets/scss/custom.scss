@@ -41,4 +41,13 @@
     --card-text-color-tertiary: #888B8D;
   }
 
+  .article-list {
+    article {
+      .article-image {
+        img {
+          width: 100%;
+        }
+      }
+    }
+  }
   
