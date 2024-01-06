@@ -6,7 +6,7 @@ favicon = "/favicon.ico"
 
 [footer]
 since = 2024
-customText = ""
+customText = "Powered by LaoShui"
 
 [dateFormat]
 published = "Jan 01, 2024"
@@ -27,7 +27,7 @@ readingTime = true
 
 [article.license]
 enabled = true
-default = "Licensed under CC BY-NC-SA 4.0"
+default = "转载需要保留原始链接，未经明确许可，禁止商业使用。[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
 
 ## Widgets
 [[widgets.homepage]]
