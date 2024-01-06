@@ -1,18 +1,28 @@
 <!-- Footer -->
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <!-- SNS Link -->
-                {% include sns-links.html center=true %}
+<footer class="footer">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-8">
+                <!-- 引入SNS链接组件 -->
+                {% include sns-links.html centered=true %}
 
-                <p class="copyright text-muted">
+                <p class="text-center copyright-text mb-0">
+                    <small>&copy; 版权所有. {{ site.time | date: '%Y' }} LaoShui</small>
                     <br>
-                    Powered by LaoShui
-                    <br>
+                    <span>Powered by LaoShui</span>
                 </p>
-
             </div>
         </div>
     </div>
 </footer>
+
+<style>
+    .footer {
+        background-color: #f5f5f5; /* 添加背景颜色 */
+        padding: 2rem 0; /* 添加内边距以增强可读性 */
+    }
+
+    .copyright-text {
+        color: #999; /* 更改版权信息的颜色为淡灰色 */
+    }
+</style>
