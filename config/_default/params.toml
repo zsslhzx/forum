@@ -9,8 +9,8 @@ since = 2024
 customText = "Powered by LaoShui"
 
 [dateFormat]
-published = "Jan 01, 2024"
-lastUpdated = "Jan 02, 2024"
+published = "2006/01/02"
+lastUpdated = "2006/01/02"
 
 [sidebar]
 emoji = "🍥"
