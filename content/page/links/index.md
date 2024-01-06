@@ -5,6 +5,13 @@ links:
     description: GitHub is the world's largest software development platform.
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: 定海七中OJ
+    description: 定海区在线测评系统
+    website: https://dh7zoj.top
+    image: https://hydro.js.org/favicon.png
+  - title: LaoShui的个人存储站（广播站音乐存储站）
+    website: http://47.101.133.153:5244
+    image: https://alist.nn.ci/logo.svg
 menu:
     main: 
         weight: 4
@@ -13,21 +20,3 @@ menu:
 
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
