@@ -21,6 +21,12 @@
     }
   }
 
+  .copyright:after {
+    content: "\A9 2024 LaoShui's - Forum\A Powered by LaoShui";
+    white-space: pre-wrap; /* 或者使用 'pre' 保持换行 */
+    display: block;
+  }
+
   .powerby {
     display: none;
   }
