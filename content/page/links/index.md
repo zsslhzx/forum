@@ -14,6 +14,7 @@ links:
     description: 广播站音乐存储站
     image: https://alist.nn.ci/logo.svg
   - title: LaoShui's Forum(Old)
+    website: https://forum.dh7zoj.top
     description: 之前的LaoShui's Forum
     image: https://forum.dh7zoj.top/img/laoshui.jpg
 menu:
