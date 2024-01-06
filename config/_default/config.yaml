@@ -1,0 +1,6 @@
+params:
+    mainSections:
+        - post
+    featuredImageField: image
+    rssFullContent: true
+    favicon: favicon.ico
