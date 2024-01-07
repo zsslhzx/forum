@@ -808,14 +808,22 @@ Sia,SLATER - Unstoppable (Sped Up) - 每日推荐 √
 
 周深 - 光亮 - 大型纪录片《紫禁城》主题歌 - 陈欣瑜 √
 
-周深 - 浓情淡如你 - 陈欣瑜
+周深 - 浓情淡如你 - 陈欣瑜 √
 
-周杰伦 - 圣诞星 (feat. 杨瑞代) - 虞可欣
+周杰伦 - 圣诞星 (feat. 杨瑞代) - 虞可欣 √
 
-叱叱吃 - Blame It On The Kids - 殷源源
+叱叱吃 - Blame It On The Kids - 殷源源 √
 
-小瀬村晶 - Ahead of Us - 王迁涵
+小瀬村晶 - Ahead of Us - 王迁涵 √
 
 周深 - 月光 (Live版) - 每日推荐
 
-薛之谦 - 演员 - 每日推荐
+薛之谦 - 演员 - 每日推荐 √
+
+Alexandra Lilly - A Matter of Time - 秦勤
+
+接个吻，开一枪,沈以诚,薛黛霏 - 失眠飞行 - 王子奥
+
+郑润泽 - 瞬 - 邬佳裕
+
+王力宏 - 花田错 - 姚芊羽
