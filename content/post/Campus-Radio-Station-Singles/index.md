@@ -9,7 +9,7 @@ tags:
 weight: 1
 ---
 
-最后更新时间: 08 Jan 2024 21:20
+最后更新时间: 09 Jan 2024 21:10
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -828,12 +828,22 @@ Alexandra Lilly - A Matter of Time - 秦勤 √
 
 王力宏 - 花田错 - 姚芊羽 √
 
-陈奕迅 - 好久不见 - 夏紫怡
+陈奕迅 - 好久不见 - 夏紫怡 √
 
-摩登兄弟刘宇宁 - 奉上 (影视剧《一念关山》片头主题曲) - 吴婷婷
+摩登兄弟刘宇宁 - 奉上 (影视剧《一念关山》片头主题曲) - 吴婷婷 √
 
-Alec Benjamin - Let Me Down Slowly - 网易云音乐合伙人第36期评分TOP3 - 每日推荐
+Alec Benjamin - Let Me Down Slowly - 网易云音乐合伙人第36期评分TOP3 - 每日推荐 √
 
-Anson Seabra - Keep Your Head Up Princess - 每日推荐
+Anson Seabra - Keep Your Head Up Princess - 每日推荐 √
 
-ONER - 艳 - 励嘉樱
+ONER - 艳 - 励嘉樱 √
+
+汪苏泷 - 耿 - 电影《最好的我们》毕业季主题曲 - 邬佳裕
+
+JoinQ - one of the girls (Sped Up) - 姚芊羽
+
+Coone,Diandra Faye - Nothing To Lose - 每日推荐
+
+周深 - 身边 - 每日推荐
+
+周深 - 风起流年 - 每日推荐
