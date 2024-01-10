@@ -11,7 +11,7 @@ weight: 1
 
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
-最后更新时间: 09 Jan 2024 21:10
+最后更新时间: 10 Jan 2024 21:35
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -840,12 +840,22 @@ Anson Seabra - Keep Your Head Up Princess - 每日推荐 √
 
 ONER - 艳 - 励嘉樱 √
 
-汪苏泷 - 耿 - 电影《最好的我们》毕业季主题曲 - 邬佳裕
+汪苏泷 - 耿 - 电影《最好的我们》毕业季主题曲 - 邬佳裕 √
 
-JoinQ - one of the girls (Sped Up) - 姚芊羽
+JoinQ - one of the girls (Sped Up) - 姚芊羽 √
 
-Coone,Diandra Faye - Nothing To Lose - 每日推荐
+Coone,Diandra Faye - Nothing To Lose - 每日推荐 √
 
-周深 - 身边 - 每日推荐
+周深 - 身边 - 每日推荐 √
 
-周深 - 风起流年 - 每日推荐
+周深 - 风起流年 - 每日推荐 √
+
+陈雪燃 - 破晓 - 《一念永恒》动画传承篇片头曲 - 李柳玉丹
+
+周深 - 时间之海 - 每日推荐
+
+HENRY刘宪华 - MOONLIGHT - 邬瑞凝
+
+银临 - 洛神赋 - 李柳玉丹
+
+胡彦斌 - 撼天- 《诛仙》动画主题曲 - 李柳玉丹
