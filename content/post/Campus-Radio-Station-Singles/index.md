@@ -11,7 +11,7 @@ weight: 1
 
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
-最后更新时间: 11 Jan 2024 21:15
+最后更新时间: 13 Jan 2024 15:00
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -860,12 +860,20 @@ HENRY刘宪华 - MOONLIGHT - 邬瑞凝 √
 
 胡彦斌 - 撼天 - 《诛仙》动画主题曲 - 李柳玉丹 √
 
-黄龄,关大洲 - 星河叹 - 【星汉灿烂】影视剧人物主题曲 - 吴婷婷
+黄龄,关大洲 - 星河叹 - 【星汉灿烂】影视剧人物主题曲 - 吴婷婷 √
 
-卫兰 - 一格格 - 王迁涵
+卫兰 - 一格格 - 王迁涵 √
 
-罗震环 - 靠近 - 傅嘉瑜
+罗震环 - 靠近 - 傅嘉瑜 √
 
-周深 - 永恒孤独 - 电视剧《三体》主题曲 - 每日推荐
+周深 - 永恒孤独 - 电视剧《三体》主题曲 - 每日推荐 √
 
-周深 - Endless Sailing - 电视剧《三体》主题曲 - 每日推荐
+周深 - Endless Sailing - 电视剧《三体》主题曲 - 每日推荐 √
+
+就是南方凯 - 离别开出花（DJHZ版） - 每日推荐
+
+就是南方凯 - 巡光 - 每日推荐
+
+Infinite Mask - Moment - 每日推荐
+
+Hedley - Lose Control - 侯彦竹
