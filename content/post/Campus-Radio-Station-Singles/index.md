@@ -11,7 +11,7 @@ weight: 1
 
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
-最后更新时间: 13 Jan 2024 15:00
+最后更新时间: 15 Jan 2024 21:30
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -870,10 +870,20 @@ HENRY刘宪华 - MOONLIGHT - 邬瑞凝 √
 
 周深 - Endless Sailing - 电视剧《三体》主题曲 - 每日推荐 √
 
-就是南方凯 - 离别开出花（DJHZ版） - 每日推荐
+就是南方凯 - 离别开出花（DJHZ版） - 每日推荐 √
 
-就是南方凯 - 巡光 - 每日推荐
+就是南方凯 - 巡光 - 每日推荐 √
 
-Infinite Mask - Moment - 每日推荐
+Infinite Mask - Moment - 每日推荐 √
 
-Hedley - Lose Control - 侯彦竹
+Hedley - Lose Control - 侯彦竹 √
+
+sapientdream,Slushii - Past Lives - 余芊萱
+
+歪歪超,袁小葳 - 下一站上岸 - 沈芷羽
+
+尹昔眠 - 落在生命里的光 - 李柳玉丹
+
+陈楚生,周深 - 逆光 (live) - 每日推荐
+
+李玖哲 - 不只是场梦 - 邬佳裕
