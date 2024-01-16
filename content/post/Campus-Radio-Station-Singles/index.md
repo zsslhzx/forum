@@ -11,7 +11,7 @@ weight: 1
 
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
-最后更新时间: 15 Jan 2024 21:30
+最后更新时间: 16 Jan 2024 20:30
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -878,12 +878,20 @@ Infinite Mask - Moment - 每日推荐 √
 
 Hedley - Lose Control - 侯彦竹 √
 
-sapientdream,Slushii - Past Lives - 余芊萱
+sapientdream,Slushii - Past Lives - 余芊萱 √
 
-歪歪超,袁小葳 - 下一站上岸 - 沈芷羽
+歪歪超,袁小葳 - 下一站上岸 - 沈芷羽 √
 
-尹昔眠 - 落在生命里的光 - 李柳玉丹
+尹昔眠 - 落在生命里的光 - 李柳玉丹 √
 
-陈楚生,周深 - 逆光 (live) - 每日推荐
+陈楚生,周深 - 逆光 (live) - 每日推荐 √
 
-李玖哲 - 不只是场梦 - 邬佳裕
+李玖哲 - 不只是场梦 - 邬佳裕 √
+
+Kenny G - You're Beautiful - 每日推荐
+
+Kenny G - The Moon Represents My Heart - 每日推荐
+
+JENNIE - You & Me  - 吴婷婷
+
+Landon Austin - Stay Awhile - 每日推荐
