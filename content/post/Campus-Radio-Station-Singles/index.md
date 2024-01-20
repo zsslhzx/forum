@@ -11,7 +11,7 @@ weight: 1
 
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
-最后更新时间: 18 Jan 2024 21:30
+最后更新时间: 20 Jan 2024 13:30
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -896,7 +896,7 @@ JENNIE - You & Me  - 吴婷婷 √
 
 Landon Austin - Stay Awhile - 每日推荐 √
 
-超人战士 - Basim-Stjæler Mit Hjerte（纯音乐）（超人战士 remix） - 姚芊羽
+超人战士 - Basim-Stjæler Mit Hjerte（纯音乐）（超人战士 remix） - 姚芊羽 √
 
 Taylor Swift,The Civil Wars - Safe & Sound - 郭哲辰 √
 
@@ -904,10 +904,10 @@ Taylor Swift,The Civil Wars - Safe & Sound - 郭哲辰 √
 
 周深 - 明天的世界更美好 - 每日推荐 √
 
-Lost Sky,ANGELPLAYA,Chris Linton - Unbreakable - 每日推荐
+Lost Sky,ANGELPLAYA,Chris Linton - Unbreakable - 每日推荐 √
 
-Vicetone,Meron Ryan - Walk Thru Fire - 李柳玉丹
+Vicetone,Meron Ryan - Walk Thru Fire - 李柳玉丹 √
 
-唐伯虎Annie - 戏子花落去 - 夏雨涵
+唐伯虎Annie - 戏子花落去 - 夏雨涵 √
 
-等什么君(邓寓君) - 长街烟火 - 夏雨涵
+等什么君(邓寓君) - 长街烟火 - 夏雨涵 √
