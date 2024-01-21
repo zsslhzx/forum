@@ -11,7 +11,7 @@ weight: 1
 
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
-最后更新时间: 20 Jan 2024 13:30
+最后更新时间: 21 Jan 2024 16:50
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -911,3 +911,15 @@ Vicetone,Meron Ryan - Walk Thru Fire - 李柳玉丹 √
 唐伯虎Annie - 戏子花落去 - 夏雨涵 √
 
 等什么君(邓寓君) - 长街烟火 - 夏雨涵 √
+
+白挺 - 伴你成长 - 《熊出没之夺宝熊兵》插曲 - 每日推荐
+
+熊大、熊二、光头强 - 再次与你同行 - 《熊出没》动画电影十周年主题曲 - 每日推荐
+
+K-391,Alan Walker,Ahrix - End of Time - 余默浔
+
+The Kid LAROI、Justin Bieber - Stay (Explicit) - 李柳玉丹
+
+南极白熊 - 蝉证序 - 每日推荐
+
+Ryan Farish - Fireflies - 每日推荐
