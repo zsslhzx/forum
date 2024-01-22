@@ -11,7 +11,7 @@ weight: 1
 
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
-最后更新时间: 21 Jan 2024 16:50
+最后更新时间: 22 Jan 2024 22:00
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -54,7 +54,7 @@ Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽 √
 
 国风堂,司南 - 吹灭小山河 - 每日推荐
 
-Pianoboy高至豪 - The truth that you leave - 每日推荐
+Pianoboy高至豪 - The truth that you leave - 每日推荐
 
 房东的猫 - 斑马斑马 - 徐若岚 √
 
@@ -912,14 +912,24 @@ Vicetone,Meron Ryan - Walk Thru Fire - 李柳玉丹 √
 
 等什么君(邓寓君) - 长街烟火 - 夏雨涵 √
 
-白挺 - 伴你成长 - 《熊出没之夺宝熊兵》插曲 - 每日推荐
+白挺 - 伴你成长 - 《熊出没之夺宝熊兵》插曲 - 每日推荐 √
 
-熊大、熊二、光头强 - 再次与你同行 - 《熊出没》动画电影十周年主题曲 - 每日推荐
+熊大 (配音：张伟),熊二 (配音：张秉君),光头强 (配音：谭笑) - 再次与你同行 - 《熊出没》动画电影十周年主题曲 - 每日推荐 √
 
-K-391,Alan Walker,Ahrix - End of Time - 余默浔
+K-391,Alan Walker,Ahrix - End of Time - 余默浔 √
 
-The Kid LAROI、Justin Bieber - Stay (Explicit) - 李柳玉丹
+The Kid LAROI、Justin Bieber - Stay (Explicit) - 李柳玉丹 √
 
-南极白熊 - 蝉证序 - 每日推荐
+南极白熊 - 蝉证序 - 每日推荐 √
 
-Ryan Farish - Fireflies - 每日推荐
+Ryan Farish - Fireflies - 每日推荐 √
+
+筷子兄弟 - 小苹果 - 电影《老男孩猛龙过江》宣传曲 - 每日推荐
+
+轻音乐馆 - 缓慢生活 - 每日推荐
+
+Lil Ghost小鬼 - 别叫我达芬奇 - 王少昊
+
+Lovelyz - FALLIN’ - 姚芊羽
+
+J4CKO,Baiden Holland - Through The Night - 每日推荐
