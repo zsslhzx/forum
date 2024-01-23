@@ -24,7 +24,7 @@ Professor Green - In The Shadow Of The Sun √
 
 唐汉霄 - 茶啊少年 - 电影《茶啊二中》态度曲 - 每日推荐 √
 
-王梓钰,音阙诗听 - 青春不打烊（JOKER 2018Mix） √
+王梓钰,音阙诗听 - 青春不打烊（JOKER 2018Mix） - 沈芷羽 √
 
 周杰伦 - 兰亭序 - 夏紫怡 √
 
@@ -52,7 +52,7 @@ Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽 √
 
 南征北战NZBZ - 骄傲的少年 - 动画《那年那兔那些事儿》第二季片尾曲 - 每日推荐 √
 
-国风堂,司南 - 吹灭小山河 - 每日推荐
+国风堂,司南 - 吹灭小山河 - 每日推荐 √
 
 Pianoboy高至豪 - The truth that you leave - 每日推荐
 
@@ -67,8 +67,6 @@ Pianoboy高至豪 - The truth that you leave - 每日推荐
 周深 - 征途 - 每日推荐 √
 
 张韶涵,刘惜君 - 如愿 (Live) - 每日推荐 √
-
-丹正母子 - 乌兰巴托的夜 (丹正母子版) - 余宣萱
 
 刘明湘 - 漂洋过海来看你 - 余宣萱 √
 
@@ -140,7 +138,7 @@ m-taku - Komorebi - 严皓凯 √
 
 TFBOYS - 不完美小孩 - 洪睿晗 √
 
-Da-iCE - Two As One - 剧场版《欧布奥特曼 羁绊之力借我一用!》主题曲 - 俞冠羽
+Da-iCE - Two As One - 剧场版《欧布奥特曼 羁绊之力借我一用!》主题曲 - 俞冠羽 √
 
 Snigellin - When I see the light at that Time - 余芊萱 √
 
@@ -176,8 +174,6 @@ Imagine Dragons - Demons - 邬瑞凝 √
 
 Vicetone,Cozi Zuehlsdorff - Nevada - 赖致远 √
 
-Dixie Flatline,初音ミク - Decade - 郏扬菡
-
 Zedd,Jon Bellion - Beautiful Now - 黄宇翔 √
 
 梦然 - 是你 - 每日推荐 √
@@ -200,11 +196,9 @@ MANTA - 断臂的维纳斯 - 张琪乔 √
 
 Toby Fox - His Theme ▸ Sprightly (DJ20001S1版) - 陈志豪 √
 
-YOASOBI,Midories - The Swallow (feat. Midories) - 毛睿一
+YOASOBI,Midories - The Swallow (feat. Midories) - 毛睿一 √
 
-Taylor Swift - You Need To Calm Down - 胡仟渝
-
-(G)I-DLE - 화(火花) - 缪柯言
+Taylor Swift - You Need To Calm Down - 胡仟渝 √
 
 周深 - Rubia - 陈依萌 √
 
@@ -264,7 +258,7 @@ ANU - 飞 - 电视剧《少年派2》片头曲 - 每日推荐 √
 
 周深 - 浮游【录音棚版本】 - 每日推荐 √
 
-张也、周深 - 灯火里的中国 - 陈欣瑜
+张也、周深 - 灯火里的中国 - 陈欣瑜 √
 
 李鑫一 - 无人之境 - 每日推荐 √
 
@@ -333,8 +327,6 @@ The Chainsmokers、Coldplay - Something Just Like This - 邬瑞凝 √
 毛不易 - 无名的人 - 秦勤 √
 
 周杰伦 - 听妈妈的话 - 陈志豪 √
-
-周杰伦 - 反方向的钟 - 邬佳裕
 
 崔伟立 - 酒醉的蝴蝶 - 程榆涵
 
@@ -892,7 +884,7 @@ Kenny G - You're Beautiful - 每日推荐 √
 
 Kenny G - The Moon Represents My Heart - 每日推荐 √
 
-JENNIE - You & Me  - 吴婷婷 √
+JENNIE - You & Me - 吴婷婷 √
 
 Landon Austin - Stay Awhile - 每日推荐 √
 
@@ -924,12 +916,26 @@ The Kid LAROI、Justin Bieber - Stay (Explicit) - 李柳玉丹 √
 
 Ryan Farish - Fireflies - 每日推荐 √
 
-筷子兄弟 - 小苹果 - 电影《老男孩猛龙过江》宣传曲 - 每日推荐
+筷子兄弟 - 小苹果 - 电影《老男孩猛龙过江》宣传曲 - 每日推荐 √
 
-轻音乐馆 - 缓慢生活 - 每日推荐
+轻音乐馆 - 缓慢生活 - 每日推荐 √
 
-Lil Ghost小鬼 - 别叫我达芬奇 - 王少昊
+Lil Ghost小鬼 - 别叫我达芬奇 - 王少昊 √
 
-Lovelyz - FALLIN’ - 姚芊羽
+Lovelyz - FALLIN’ - 姚芊羽 √
 
 J4CKO,Baiden Holland - Through The Night - 每日推荐
+
+阿YueYue - 予君书 - 朱彦伊
+
+宇多田ヒカル - One Last Kiss - 王迁涵
+
+太一 - （笑） - 徐若岚
+
+范世錡 - 落在海平面的微光 - 余默浔
+
+Maroon 5,J. Cole - Animals (Remix) - 侯彦竹
+
+TF家族,TF家族-左航 - Hey Left - 夏瑜璟
+
+凤凰传奇 - 好运来 - 每日推荐
