@@ -9,9 +9,13 @@ tags:
 weight: 1
 ---
 
+截止2023/01/25 广播站歌单内收录的所有歌曲已全部安排播放 本学期自2023/09/08开始播放歌曲共收录播放歌曲462首 歌单已停止收录等待数据处理后再进行开放
+
+---
+
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
-最后更新时间: 22 Jan 2024 22:00
+最后更新时间: 25 Jan 2024 21:00
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -310,7 +314,7 @@ Em Beihold - Numb Little Bug - 邬瑞凝 √
 
 The Chainsmokers、Coldplay - Something Just Like This - 邬瑞凝 √
 
-雷佳 - 写故事的人 - 《我们这十年》电视剧片尾主题曲 - 余默浔
+雷佳 - 写故事的人 - 《我们这十年》电视剧片尾主题曲 - 余默浔 √
 
 周杰伦 - 半岛铁盒- 姚芊羽 - (孙士蘅) √
 
@@ -328,13 +332,13 @@ The Chainsmokers、Coldplay - Something Just Like This - 邬瑞凝 √
 
 周杰伦 - 听妈妈的话 - 陈志豪 √
 
-崔伟立 - 酒醉的蝴蝶 - 程榆涵
+崔伟立 - 酒醉的蝴蝶 - 程榆涵 √
 
 林俊杰 - 新地球 - 缪柯言 √
 
 井胧、井迪 - 骁 - 每日推荐 √
 
-王力宏 - 天地龙鳞 - 大型纪录片《紫禁城》主题歌 - 每日推荐
+王力宏 - 天地龙鳞 - 大型纪录片《紫禁城》主题歌 - 每日推荐 √
 
 浮生梦tuzi - 星月落 - 每日推荐 √
 
@@ -924,18 +928,18 @@ Lil Ghost小鬼 - 别叫我达芬奇 - 王少昊 √
 
 Lovelyz - FALLIN’ - 姚芊羽 √
 
-J4CKO,Baiden Holland - Through The Night - 每日推荐
+J4CKO,Baiden Holland - Through The Night - 每日推荐 √
 
-阿YueYue - 予君书 - 朱彦伊
+阿YueYue - 予君书 - 朱彦伊 √
 
-宇多田ヒカル - One Last Kiss - 王迁涵
+宇多田ヒカル - One Last Kiss - 王迁涵 √
 
-太一 - （笑） - 徐若岚
+太一 - （笑） - 徐若岚 √
 
-范世錡 - 落在海平面的微光 - 余默浔
+范世錡 - 落在海平面的微光 - 余默浔 √
 
-Maroon 5,J. Cole - Animals (Remix) - 侯彦竹
+Maroon 5,J. Cole - Animals (Remix) - 侯彦竹 √
 
-TF家族,TF家族-左航 - Hey Left - 夏瑜璟
+TF家族,TF家族-左航 - Hey Left - 夏瑜璟 √
 
-凤凰传奇 - 好运来 - 每日推荐
+凤凰传奇 - 好运来 - 每日推荐 √
