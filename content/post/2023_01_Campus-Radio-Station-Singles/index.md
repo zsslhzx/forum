@@ -9,17 +9,13 @@ tags:
 weight: 1
 ---
 
-截止2023/01/25 广播站歌单内收录的所有歌曲已全部安排播放 本学期自2023/09/08开始播放歌曲共收录播放歌曲462首 歌单已停止收录等待数据处理后再进行开放
-
----
-
-<script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
+截止2023/01/25 广播站歌单内收录的所有歌曲已全部安排播放 本学期自2023/09/08开始播放歌曲共收录播放歌曲462首
 
 ---
 
 最后更新时间: 25 Jan 2024 21:00
 
-查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
+查看 下载歌曲进入 [LaoShui的存储站](https://cloud.lao-shui.top)
 
 ### 以下为备选歌曲：
 周深 - 有我 - 庆祝中国共青团成立100周年主题宣传片《共青春》主题曲 √
