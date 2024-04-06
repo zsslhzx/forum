@@ -2,7 +2,7 @@
 baseurl = "https://new-forum.dh7zoj.top"
 languageCode = "zh-Hans"
 paginate = 5
-title = "LaoShui's - Forum"
+title = "Dh7z - Forum"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -13,4 +13,4 @@ DefaultContentLanguage = "zh-cn"
 hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
-disqusShortname = "laoshui-forum"
+disqusShortname = "dh7z-forum"
