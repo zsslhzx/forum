@@ -1,0 +1,102 @@
+<div id="countdown"></div> <!-- 中考倒计时By LaoShui -->
+<style>
+    @keyframes fadeInBlur {
+        0% {
+            opacity: 0;
+            filter: blur(5px);
+        }
+        100% {
+            opacity: 1;
+            filter: blur(0);
+        }
+    }
+
+    #countdown {
+        position: fixed;
+        top: 50px;
+        right: 10px;
+        font-size: 1.5em;
+        color: #333;
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 10px 20px;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+
+        animation: fadeInBlur 1.5s ease-in-out 1;
+    }
+</style>
+<script>
+    // 设置目标日期
+    const examSchedule = [
+        {date: new Date("June 22, 2024"), subjects: [
+            {name: "语文", start: "09:00", end: "11:00"},
+            {name: "科学", start: "13:30", end: "15:30"}
+        ]},
+        {date: new Date("June 23, 2024"), subjects: [
+            {name: "数学", start: "09:00", end: "11:00"},
+            {name: "社会", start: "13:30", end: "15:10"},
+            {name: "英语", start: "16:10", end: "17:35"}
+        ]}
+    ];
+
+    const examEnd = new Date(examSchedule[examSchedule.length - 1].date);
+    examEnd.setHours(17, 35, 0, 0); // 英语考试结束时间
+
+    // 更新倒计时
+    function updateCountdown() {
+        // 获取当前时间
+        const now = new Date();
+        
+        // 计算距离中考结束的时间差
+        const distanceToEnd = examEnd.getTime() - now.getTime();
+
+        // 判断中考是否已经开始
+        if (now > examSchedule[0].date) {
+            // 中考已经开始
+            let currentExam = null;
+            for (let i = 0; i < examSchedule.length; i++) {
+                for (let j = 0; j < examSchedule[i].subjects.length; j++) {
+                    const subject = examSchedule[i].subjects[j];
+                    const start = new Date(examSchedule[i].date);
+                    start.setHours(subject.start.split(':')[0], subject.start.split(':')[1], 0, 0);
+                    const end = new Date(examSchedule[i].date);
+                    end.setHours(subject.end.split(':')[0], subject.end.split(':')[1], 0, 0);
+                    if (now >= start && now <= end) {
+                        currentExam = subject;
+                        break;
+                    }
+                }
+                if (currentExam) break;
+            }
+
+            if (currentExam) {
+                // 正在进行的考试
+                document.getElementById("countdown").innerHTML = `当前正在进行：${currentExam.name}`;
+            } else if (now > examEnd) {
+                // 中考已经结束
+                const days = Math.floor(distanceToEnd / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((distanceToEnd % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                const minutes = Math.floor((distanceToEnd % (1000 * 60 * 60)) / (1000 * 60));
+                const seconds = Math.floor((distanceToEnd % (1000 * 60)) / 1000);
+                document.getElementById("countdown").innerHTML = `中考已经过去了 ${days} 天 ${hours} 小时 ${minutes} 分钟 ${seconds} 秒`;
+            } else {
+                // 中考期间但没有考试
+                document.getElementById("countdown").innerHTML = "中考进行中……";
+            }
+        } else {
+            // 计算距离中考开始的时间差
+            const distanceToStart = examSchedule[0].date.getTime() - now.getTime();
+            const days = Math.floor(distanceToStart / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distanceToStart % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distanceToStart % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((distanceToStart % (1000 * 60)) / 1000);
+            document.getElementById("countdown").innerHTML = `距中考还有 ${days} 天 ${hours} 小时 ${minutes} 分钟 ${seconds} 秒`;
+        }
+    }
+
+    // 每秒更新一次倒计时
+    setInterval(updateCountdown, 1000);
+
+    // 页面加载完成时初始化倒计时
+    window.onload = updateCountdown;
+</script>
