@@ -19,7 +19,7 @@ subtitle = "这是一个用于发布校园相关讯息的论坛"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.jpg"
+src = "img/avatar.png"
 
 [article]
 math = false
