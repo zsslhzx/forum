@@ -7,11 +7,11 @@ links:
     image: https://hydro.js.org/favicon.png
   - title: LaoShui's Blog
     website: https://www.lao-shui.top
-    image: https://forum.dh7zoj.top/img/laoshui.jpg
+    image: https://forum.dh7zoj.top/img/logo.png
   - title: Dh7z Forum(Old)
     website: https://forum.dh7zoj.top
     description: 旧版 Dh7z Forum
-    image: https://forum.dh7zoj.top/img/laoshui.jpg
+    image: https://forum.dh7zoj.top/img/logo.png
 
 menu:
     main: 
