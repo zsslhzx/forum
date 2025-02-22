@@ -25,9 +25,20 @@
     }
 </style>
 
-<footer>
-  <div class="copyright">
-    {{- /* 原有版权信息 */ -}}
-    <a href="https://beian.miit.gov.cn/" class="icp-link" target="_blank" rel="noopener">浙ICP备2022016925号</a>
-  </div>
-</footer>
+<div class="beian" style="animation: fadeInBlur 1s ease-out;">
+    <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer"; font-size: 0.9em;">
+        浙ICP备2022016925号
+    </a>
+</div>
+
+<style>
+    .beian {
+        text-align: center;
+        margin: 1rem 0;
+        opacity: 0.8;
+        transition: opacity 0.3s;
+    }
+    .beian:hover {
+        opacity: 1;
+    }
+</style>
