@@ -151,7 +151,7 @@
   
   //-------------------------------------------
   // 设置选中字体的区域背景颜色
-  // 修改选中颜色
+  //修改选中颜色
   ::selection {
     color: #fff;
     background: #34495e;
@@ -179,7 +179,7 @@
   }
   
   //-------------------------------------------------
-  // 文章封面高度更改
+  //文章封面高度更改
   .article-list article .article-image img {
     width: 100%;
     height: 150px;
@@ -209,7 +209,7 @@
   }
   
   //--------------------------------------------------
-  // 页面三栏宽度调整
+  //页面三栏宽度调整
   .container {
     margin-left: auto;
     margin-right: auto;
@@ -357,7 +357,7 @@
   }
 
   // 归档页面两栏
-  @media (min-width: 1024px) {
+@media (min-width: 1024px) {
     .article-list--compact {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -375,7 +375,7 @@
     }
   }
 
-  /*-----------归档页面----------*/
+/*-----------归档页面----------*/
 //归档页面卡片缩放
 .article-list--tile article {
     transition: .6s ease;
@@ -385,9 +385,9 @@
     transform: scale(1.03, 1.03);
   }
 
-  /*------------------右侧导航栏--------------*/
-  // 搜索菜单动画
-  .search-form.widget {
+/*------------------右侧导航栏--------------*/
+// 搜索菜单动画
+.search-form.widget {
     transition: transform 0.6s ease;
   }
   
@@ -396,7 +396,7 @@
   }
   
   
-  // 归档小图标放大动画
+  //归档小图标放大动画
   .widget.archives .widget-archive--list {
     transition: transform .3s ease;
   }
@@ -406,7 +406,7 @@
   }
   
   
-  // 右侧标签放大动画
+  //右侧标签放大动画
   .tagCloud .tagCloud-tags a {
     border-radius: 10px;
     font-size: 1.4rem;
