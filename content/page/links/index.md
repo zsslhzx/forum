@@ -7,7 +7,7 @@ links:
     image: https://hydro.js.org/favicon.png
   - title: LaoShui's Blog
     website: https://blog.lao-shui.top
-    image: https://forum.dh7z.cn/img/logo.png
+    image: https://blog.lao-shui.top/favicon.ico
 
 menu:
     main: 
