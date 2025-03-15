@@ -9,7 +9,7 @@ tags:
 weight: 1
 ---
 
-# 点歌表单
+# 投稿表单
 
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=tieVa89&width=760&source=iframe'></script>
 
