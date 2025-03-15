@@ -1,7 +1,7 @@
 # Change baseurl before deploy
-baseurl = "https://new-forum.dh7zoj.top"
+baseurl = "https://forum-lhzx.lao-shui.top"
 languageCode = "zh-Hans"
-title = "Dh7z - Forum"
+title = "LHZX - Forum"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -12,7 +12,7 @@ DefaultContentLanguage = "zh-cn"
 hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
-disqusShortname = "dh7z-forum"
+disqusShortname = "lhzx-forum"
 
 [pagination]
 pagerSize = 5
