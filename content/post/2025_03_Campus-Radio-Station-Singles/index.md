@@ -11,7 +11,7 @@ weight: 1
 
 # 投稿表单
 
-<script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=tieVa89&width=760&source=iframe'></script>
+<script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=wWnUmlc&width=760&source=iframe'></script>
 
 ---
 
