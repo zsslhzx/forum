@@ -5,7 +5,7 @@ rssFullContent = true
 favicon = "/favicon.ico"
 
 [footer]
-since = 2024
+since = 2025
 customText = "Powered by LaoShui"
 
 [dateFormat]
@@ -22,12 +22,12 @@ local = true
 src = "img/avatar.png"
 
 [article]
-math = false
+math = true
 readingTime = true
 
 [article.license]
 enabled = true
-default = "转载需要保留原始链接，未经明确许可，禁止商业使用。[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+default = "本网站歌单内所涉音乐作品著作权均归属原始权利人所有 | 转载需要保留原始链接，未经明确许可，禁止商业使用。[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
 
 ## Widgets
 [[widgets.homepage]]
@@ -75,7 +75,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
