@@ -18,24 +18,24 @@ weight: 1
 ## 第一期
 
 ### 午休静班前
-- Armin van Buuren、Ben Hemsley、Lucy Pullin - Is It Beautiful (A State of Trance 2025 TRANSFORMATION Anthem)
-- 吴子健REmi - 难书
-- 石凯 - Romance
-- 周深 - 光亮
+- Armin van Buuren、Ben Hemsley、Lucy Pullin - Is It Beautiful (A State of Trance 2025 TRANSFORMATION Anthem) - 每日推荐
+- 吴子健REmi - 难书 - 每日推荐
+- 石凯 - Romance - 每日推荐
+- 周深 - 光亮 - 每日推荐
 
 总时长：14:04.155
 
 ### 夜自修静班前
-- Armin van Buuren、Trevor Guthrie - This Is What It Feels Like
-- 周杰伦 - 爱在西元前
-- 黄子弘凡 - Do U
-- 周深 - 深 Intro
-- 周深 - Wala li longla
+- Armin van Buuren、Trevor Guthrie - This Is What It Feels Like - 每日推荐
+- 周杰伦 - 爱在西元前 - 每日推荐
+- 黄子弘凡 - Do U - 每日推荐
+- 周深 - 深 Intro - 每日推荐
+- 周深 - Wala li longla - 每日推荐
 
 总时长：15:07.892
 
 ### 夜自修后
-- 周深 - 大鱼
+- 周深 - 大鱼 - 每日推荐
 
 总时长：5:13.705
 
@@ -70,24 +70,24 @@ weight: 1
 ## 第三期
 
 ### 午休静班前
-- 凤凰传奇 - 我从草原来
+- 凤凰传奇 - 我从草原来 - 每日推荐
 - 队长 - 楼顶上的小斑鸠 - 每日推荐
-- Vicetone - Honey Water
-- 周深 - Let It Go (九语男版)
+- Vicetone - Honey Water - 每日推荐
+- 周深 - Let It Go (九语男版) - 每日推荐
 
 总时长：14:46.652
 
 ### 夜自修静班前
-- 司南 - 梦与星海之间
-- 买辣椒也用券 - 有光
-- 杨世贸,阳花,张天奕ZTYick - 北极以南
-- Vicetone,Welt - Dive In
-- 周深 - 蜃楼
+- 司南 - 梦与星海之间 - 每日推荐
+- 买辣椒也用券 - 有光 - 每日推荐
+- 杨世贸,阳花,张天奕ZTYick - 北极以南 - 每日推荐
+- Vicetone,Welt - Dive In - 每日推荐
+- 周深 - 蜃楼 - 每日推荐
 
 总时长：19:24.998
 
 ### 夜自修后
-- 哏德全 - 月光下的凤尾竹
+- 哏德全 - 月光下的凤尾竹 - 每日推荐
 
 总时长：4:29:898
 
