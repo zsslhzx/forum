@@ -92,3 +92,54 @@ weight: 1
 总时长：4:29:898
 
 ---
+
+## 第四期
+
+### 午休静班前
+- 凤凰传奇 - 望星辰 - 每日推荐
+- Vicetone,Cozi Zuehlsdorff - Way Back - 每日推荐
+- Imagine Dragons - Whatever It Takes - 每日推荐
+- 黄子弘凡 - 成为你想成为的大人 - 每日推荐
+- 周深 - 避难所／Sanctuary - 每日推荐
+
+总时长：16:20.775
+
+### 夜自修静班前
+- Armin van Buuren,Mr. Probz - Another You - 每日推荐
+- 周杰伦 - 好久不见 - 每日推荐
+- 苏运莹 - 月下 - 每日推荐
+- 周深 - 重启 - 每日推荐
+
+总时长：14:10.595
+
+### 夜自修后
+- Secret Garden - Anticipation - 每日推荐
+
+总时长：3:50.666
+
+---
+
+## 第五期
+
+### 午休静班前
+- Alan Walker,Putri Ariani,Peder Elias - Who I Am - 每日推荐
+- 许巍 - 蓝莲花 - 每日推荐
+- 张韶涵、王赫野 - 篇章 - 每日推荐
+- 周深 - 浮光 - 每日推荐
+
+总时长：16:27.828
+
+### 夜自修静班前
+- Armin van Buuren,Agents Of Time,ORKID - Love Is Eternity (Extended Mix) - 每日推荐
+- 太一 - 负重一万斤长大 - 每日推荐
+- 姜云升 - 浪漫主义 - 每日推荐
+- 周深 - 记忆商店 - 每日推荐
+
+总时长：16:25.294
+
+### 夜自修后
+- 杨楚骁 - 花语（Flower Words） - 每日推荐
+
+总时长：4:25.560
+
+---
