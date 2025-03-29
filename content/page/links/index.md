@@ -1,6 +1,9 @@
 ---
 title: Links
 links:
+  - title: 舟山市六横中学广播站
+    website: https://radio-lhzx.lao-shui.top/
+    image: https://blog.lao-shui.top/img/public/logo.png
   - title: 定海七中OJ
     description: 定海七中在线测评系统
     website: https://oj.dh7z.cn/
