@@ -15,7 +15,7 @@ weight: 1
 
 ---
 
-## 第一期
+## 第一期（25/03/25）
 
 ### 夜自修静班前
 - Armin van Buuren、Ben Hemsley、Lucy Pullin - Is It Beautiful (A State of Trance 2025 TRANSFORMATION Anthem) - 每日推荐
@@ -27,7 +27,7 @@ weight: 1
 
 ---
 
-## 第二期
+## 第二期（25/03/26）
 
 ### 夜自修静班前
 - 林俊杰 - 新地球 - 乐嘉琪
@@ -39,7 +39,7 @@ weight: 1
 
 ---
 
-## 第三期
+## 第三期（25/03/27）
 
 ### 夜自修静班前
 - Armin van Buuren、Trevor Guthrie - This Is What It Feels Like - 每日推荐
@@ -52,7 +52,7 @@ weight: 1
 
 ---
 
-## 第四期
+## 第四期（25/03/28）
 
 ### 夜自修静班前
 - Armin van Buuren,Agents Of Time,ORKID - Love Is Eternity (Extended Mix) - 每日推荐
@@ -73,79 +73,5 @@ weight: 1
 - 周深 - 虚构 - 每日推荐
 
 总时长：16:53:004
-
----
-
-## 第六期
-
-### 夜自修静班前
-- 凤凰传奇 - 我从草原来 - 每日推荐
-- 队长 - 楼顶上的小斑鸠 - 每日推荐
-- Vicetone - Honey Water - 每日推荐
-- 周深 - Let It Go (九语男版) - 每日推荐
-
-总时长：14:46.652
-
----
-
-## 第七期
-
-### 夜自修静班前
-- 司南 - 梦与星海之间 - 每日推荐
-- 买辣椒也用券 - 有光 - 每日推荐
-- 杨世贸,阳花,张天奕ZTYick - 北极以南 - 每日推荐
-- Vicetone,Welt - Dive In - 每日推荐
-- 周深 - 蜃楼 - 每日推荐
-
-总时长：19:24.998
-
----
-
-## 第八期
-
-### 夜自修静班前
-- 凤凰传奇 - 望星辰 - 每日推荐
-- Vicetone,Cozi Zuehlsdorff - Way Back - 每日推荐
-- Imagine Dragons - Whatever It Takes - 每日推荐
-- 黄子弘凡 - 成为你想成为的大人 - 每日推荐
-- 周深 - 避难所／Sanctuary - 每日推荐
-
-总时长：16:20.775
-
----
-
-## 第九期
-
-### 夜自修静班前
-- Armin van Buuren,Mr. Probz - Another You - 每日推荐
-- 周杰伦 - 好久不见 - 每日推荐
-- 苏运莹 - 月下 - 每日推荐
-- 周深 - 重启 - 每日推荐
-
-总时长：14:10.595
-
----
-
-## 第十期
-
-### 夜自修静班前
-- Alan Walker,Putri Ariani,Peder Elias - Who I Am - 每日推荐
-- 许巍 - 蓝莲花 - 每日推荐
-- 张韶涵、王赫野 - 篇章 - 每日推荐
-- 周深 - 浮光 - 每日推荐
-
-总时长：16:27.828
-
----
-
-## 第十一期
-
-### 夜自修静班前
-- 缝纫机乐队 - 都选C - 每日推荐
-- 岑宁儿 - 追光者 - 每日推荐
-- 石凯 - 没留住你 - 每日推荐
-- 周深 - Rubia - 每日推荐
-
-总时长：14:00.309
 
 ---
