@@ -4,6 +4,7 @@ date: 2025-03-15 00:00:00+0000
 image: cover.jpg
 categories:
     - 歌单
+    - 投稿入口
 tags:
     - 官方
 weight: 1
