@@ -176,7 +176,7 @@ weight: 1
 ## 第十四期
 
 ### 夜自修静班前
-- Charlie Puth,Selena Gomez - We Don't Talk Anymore - 波佳查
+- Charlie Puth,Selena Gomez - We Don't Talk Anymore - 张纪锋
 - 陈绮贞 - 小步舞曲 - 袁凡淇
 - 林俊杰 - 当你 - 曹译匀
 - 孙燕姿 - 遇见 - 李程
