@@ -9,6 +9,12 @@ tags:
 weight: 2
 ---
 
+# 人员招募
+
+<script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mo3D0Me&width=760&source=iframe'></script>
+
+---
+
 # 意见反馈表单
 
 <script type='text/javascript' src='https://www.wjx.cn/handler/jqemed.ashx?activity=wWKyxca&width=750&source=iframe'></script>
@@ -22,8 +28,3 @@ weight: 2
 # 关于站长
 
 <iframe src="https://aboutme.lao-shui.top" frameborder="0" width="100%" height="700"></iframe>
-
----
-
-# 人员招募
-
