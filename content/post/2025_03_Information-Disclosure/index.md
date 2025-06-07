@@ -27,4 +27,5 @@ weight: 2
 
 # 关于站长
 
+<iframe src="https://xhslink.com/a/JwsmJGJcQFneb" frameborder="0" width="100%" height="700"></iframe>
 <iframe src="https://aboutme.lao-shui.top" frameborder="0" width="100%" height="700"></iframe>
